@@ -5,8 +5,8 @@
 
 | Checkbox | ID  | Problem Name | Online Judge | Difficulty |
 |---|:---:|:---:|---|---|
-|<ul><li>- [ ] Done</li></ul>|1|[Arrival of the General](http://codeforces.com/problemset/problem/144/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|2|[Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)|Codeforces|1|
+|<ul><li>- [X] Done</li></ul>|1|[Arrival of the General](http://codeforces.com/problemset/problem/144/A)|Codeforces|1|
+|<ul><li>- [X] Done</li></ul>|2|[Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|3|[Ultra-Fast Mathematician](http://codeforces.com/problemset/problem/61/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|4|[Blackjack](http://codeforces.com/problemset/problem/104/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|5|[HQ9+](http://codeforces.com/problemset/problem/133/A)|Codeforces|1|
